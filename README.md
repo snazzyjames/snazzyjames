@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hey, I'm James
 
-<!--
-**snazzyjames/snazzyjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal-level engineering leader with a Fullstack/DevSecOps background. I've
+spent my career building distributed systems, leading product, platform and
+infrastructure teams, and operating at the intersection of hands-on
+engineering and organizational strategy.
 
-Here are some ideas to get you started:
+I have a strong focus on system design and architecture. I'm particularly interested
+in distributed, cloud-native environments where reliability, security,
+and observability aren't afterthoughts.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now I'm deep in the agentic AI space — specifically interested in
+observability, security, and reliability for AI pipelines. It's an area
+with a lot of unsolved problems and not enough good tooling yet.
+
+I care about systems that are actually maintainable, teams that own their
+on-call burden, and making the hard problems visible before they become
+incidents.
+
+---
+
+📍 United States
+
+
+🔧 Python · Go · Rust · Typescript/Node · K8s · Kafka · LangGraph
+
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sjmcniff/)
