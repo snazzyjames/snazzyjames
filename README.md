@@ -20,6 +20,6 @@ problems visible before they become incidents.
 
 📍 United States
 
-🔧 Python · Go · Rust · Typescript/Node · K8s · Kafka · LangGraph
+🔧 Python · Go · Rust · React/Typescript/Node · K8s · Kafka · LangGraph
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sjmcniff/)
