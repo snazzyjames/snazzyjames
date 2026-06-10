@@ -13,8 +13,7 @@ Right now I'm deep in the agentic AI space — specifically interested in
 observability, security, and reliability for AI pipelines. It's an area
 with a lot of unsolved problems and not enough good tooling yet.
 
-I care about systems that are actually maintainable, teams that own their
-on-call burden, and making the hard problems visible before they become
+I care about systems that are actually maintainable and making the hard problems visible before they become
 incidents.
 
 ---
