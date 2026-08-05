@@ -17,7 +17,7 @@ I care a lot about building easily understood, glanceable systems, and getting a
 
 ---
 
-Currently based in The United States
+📍 United States
 
 Engineering Manager · Player Coach · Team Builder
 
