@@ -17,10 +17,8 @@ I care a lot about building easily understood, glanceable systems, and getting a
 
 ---
 
-📍 United States
-
 Engineering Manager · Player Coach · Team Builder
 
 Python · Go · Rust · React/Typescript/Node · K8s · Kafka · LangGraph
 
-[LinkedIn](https://www.linkedin.com/in/sjmcniff/) · [Personal Site](https://jamesmcniff.com)
+[LinkedIn](https://www.linkedin.com/in/sjmcniff/) · [Website](https://jamesmcniff.com)
