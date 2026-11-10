@@ -9,7 +9,7 @@ I have a strong focus on system design and architecture, particularly in
 distributed, cloud-native environments where the operational concerns are
 as important as the product ones.
 
-Right now I'm deep in the agentic AI space. I am specifically interested in
+Right now I'm deep in the agentic AI space. I am especially interested in
 observability, security, and reliability for AI pipelines. It's an area
 with a lot of unsolved problems and not enough good tooling yet.
 
