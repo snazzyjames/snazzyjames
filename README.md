@@ -1,4 +1,4 @@
-# Hey, I'm James
+# Hey, I'm James.
 
 Principal-level engineering leader with a Fullstack and DevSecOps background. I've
 spent my career building distributed systems and leading product, platform, and
